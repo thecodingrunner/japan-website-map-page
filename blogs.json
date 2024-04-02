@@ -1,0 +1,7 @@
+{
+  "blogs":[
+    {"title":"something a bit longer", "location":"Tokyo", "images":["IMG_5925.jpg"], "contents":"test"},
+    {"title":"test 2", "location":"Tokyo", "images":["IMG_5925.jpg"], "contents":""},
+    {"title":"test 3", "location":"Tokyo", "images":["IMG_5925.jpg"], "contents":""}
+  ]
+}
